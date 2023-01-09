@@ -5,7 +5,8 @@
 .fa-trash-alt {
   color: red;
   float: right;
-  cursor: pointer;
+ cursor: pointer;
+ 
 }
 
 .todo-complete {
